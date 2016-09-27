@@ -2,7 +2,7 @@
 
 > A curated list of useful resources for building a new startup business.
 
-*Please read the [contribution guidelines](contributing.md) before contributing.*
+*Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
 
 ## Contents
 
