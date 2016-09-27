@@ -112,3 +112,8 @@
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Ahmad Nassri](https://www.ahmadnassri.com.com) has waived all copyright and related or neighboring rights to this work.
+
+----
+> Ahmad Nassri: [www.ahmadnassri.com](https://www.ahmadnassri.com/) &nbsp;&middot;&nbsp;
+> Github: [@ahmadnassri](https://github.com/ahmadnassri) &nbsp;&middot;&nbsp;
+> Twitter: [@ahmadnassri](https://twitter.com/ahmadnassri)
