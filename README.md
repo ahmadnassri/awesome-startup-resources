@@ -32,12 +32,18 @@
 - [Mutual Confidentiality Agreement](http://hyndmanlaw.com/blog/form-of-mutual-confidentiality-agreement/)
 - [Restricted Confidentiality Agreement](http://hyndmanlaw.com/blog/form-of-restricted-confidentiality-agreement/)
 
-### [Series Seed](http://www.seriesseed.com/): _(a standardized set of legal documents that can be quickly and easily deployed for a seed investment round.)_
+### [Series Seed](http://www.seriesseed.com/)
+
+> a standardized set of legal documents that can be quickly and easily deployed for a seed investment round.
+
 - [Certificate of Incorporation](https://github.com/seriesseed/equity/blob/master/Series%20Seed%20-%20Restated%20Certificate%20of%20Incorporation.md)
 - [Stock Investment Agreement](https://github.com/seriesseed/equity/blob/master/Series%20Seed%20-%20Preferred%20Stock%20Investment%20Agreement.md)
 - [Term Sheet](https://github.com/seriesseed/equity/blob/master/Series%20Seed%20-%20Term%20Sheet.md)
 
-### [Techstars](http://techstarswp.wpengine.com/docs/): _(Open Sourced) Model Seed Financing Documents_
+### [Techstars](http://techstarswp.wpengine.com/docs/)
+
+> (Open Sourced) Model Seed Financing Documents
+
 - Equity Financing Structure
   - [Board Member Election Consent](http://www.techstars.com/uploads/techstars-model-series-aa-board-member-election-consent1.doc)
   - [Bylaws](http://www.techstars.com/uploads/techstars-series-aa-model-bylaws1.doc)
@@ -65,6 +71,7 @@
 - [Series AA Termsheet](https://www.docracy.com/5/y-combinator-series-aa-termsheet-)
 
 ### Foundry Group
+
 - [Bylaws](http://www.docracy.com/17/foundry-group-standard-bylaws)
 - [Certificate of Incorporation](http://www.docracy.com/18/foundry-group-standard-certificate-of-incorporation)
 - [Co-Sale Agreement](http://www.docracy.com/20/foundry-group-standard-co-sale-agreement)
