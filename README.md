@@ -37,7 +37,7 @@
   - [Stock Investment Agreement](https://github.com/seriesseed/equity/blob/master/Series%20Seed%20-%20Preferred%20Stock%20Investment%20Agreement.md)
   - [Term Sheet](https://github.com/seriesseed/equity/blob/master/Series%20Seed%20-%20Term%20Sheet.md)
 
-- [Techstars]((http://techstarswp.wpengine.com/docs/): (_Open Sourced) Model Seed Financing Documents)_
+- [Techstars]((http://techstarswp.wpengine.com/docs/): _(Open Sourced) Model Seed Financing Documents_
   - Equity Financing Structure
     - [Board Member Election Consent](http://www.techstars.com/uploads/techstars-model-series-aa-board-member-election-consent1.doc)
     - [Bylaws](http://www.techstars.com/uploads/techstars-series-aa-model-bylaws1.doc)
