@@ -14,7 +14,7 @@
 - [Books](#books)
 - [Blogs](#blogs)
 - [Community](#community)
-- [Office & Workspace](#office-workspace)
+- [Office & Workspace](#office--workspace)
 - [Miscellaneous](#miscellaneous)
 
 ## Legal
