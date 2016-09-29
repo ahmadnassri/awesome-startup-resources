@@ -14,6 +14,7 @@
 - [Books](#books)
 - [Blogs](#blogs)
 - [Community](#community)
+- [Office & Workspace](#office-workspace)
 - [Miscellaneous](#miscellaneous)
 
 ## Legal
@@ -104,6 +105,13 @@
 ## Courses
 
 ## Community
+
+## Office & Workspace
+
+- [Awesome Co-Working](https://github.com/ahmadnassri/awesome-coworking/) - A curated list of co-working spaces around the globe.
+- [Workfrom](https://workfrom.co) - Use Workfrom to find and share the best coffee shops, cafes, bars, coworking and other work-friendly spaces in cities and towns everywhere.
+- [ShareDesk](https://www.sharedesk.net/) - Book from thousands of unique work and meeting spaces.
+- [Nomad List](https://nomadlist.com/toronto-canada/places-to-work) - Nomad List finds you the best places in the world to live and work remotely
 
 ## Miscellaneous
 
