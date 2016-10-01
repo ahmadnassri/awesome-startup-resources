@@ -81,6 +81,7 @@
 
 - [Awesome Incubators](https://github.com/ahmadnassri/awesome-incubators) - A curated list of startup incubators around the globe.
 - [Awesome Accelerators](https://github.com/ahmadnassri/awesome-accelerators) - A curated list of startup accelerators around the globe.
+- [Seed-DB](http://www.seed-db.com/) - A database of seed accelerators and their companies.
 
 ## Books
 
