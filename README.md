@@ -7,15 +7,11 @@
 ## Contents
 
 - [Legal](#legal)
-- [Articles](#articles)
-- [Newsletters](#newsletters)
-- [Videos](#videos)
-- [Podcasts](#podcasts)
+- [Investment](#investment)
 - [Books](#books)
 - [Blogs](#blogs)
 - [Community](#community)
 - [Office & Workspace](#office--workspace)
-- [Miscellaneous](#miscellaneous)
 
 ## Legal
 
@@ -81,14 +77,10 @@
 - [Termsheet](http://www.docracy.com/23/foundry-group-standard-termsheet)
 - [Voting Agreement](http://www.docracy.com/19/foundry-group-voting-agreement)
 
+## Investment
 
-## Articles
-
-## Newsletters
-
-## Videos
-
-## Podcasts
+- [Awesome Incubators](https://github.com/ahmadnassri/awesome-incubators) - A curated list of startup incubators around the globe.
+- [Awesome Accelerators](https://github.com/ahmadnassri/awesome-accelerators) - A curated list of startup accelerators around the globe.
 
 ## Books
 
@@ -102,10 +94,6 @@
 - [Feld Thoughts](http://www.feld.com/) - Blog by Brad Feld, an early stage investor and entrepreneur since 1987.
   - [Term Sheet Series](http://www.feld.com/archives/category/term-sheet) - Blog series on Term Sheet
 
-## Courses
-
-## Community
-
 ## Office & Workspace
 
 - [Awesome Co-Working](https://github.com/ahmadnassri/awesome-coworking/) - A curated list of co-working spaces around the globe.
@@ -113,7 +101,9 @@
 - [ShareDesk](https://www.sharedesk.net/) - Book from thousands of unique work and meeting spaces.
 - [Nomad List](https://nomadlist.com/toronto-canada/places-to-work) - Nomad List finds you the best places in the world to live and work remotely
 
-## Miscellaneous
+## Community
+
+- [Tech Masters](https://techmasters.chat/) - online community tying together a diverse and passionate group of technologists, entrepreneurs, and developers from all around the world.
 
 ## License
 
