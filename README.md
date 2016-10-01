@@ -85,7 +85,7 @@
 
 ## Books
 
-- [Venture Deals](https://www.amazon.com/Venture-Deals-Smarter-Lawyer-Capitalist-ebook/dp/B00AO2PWOI/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1469505159&sr=1-1&keywords=venture+deals&linkCode=sl1&tag=starturevolu-20&linkId=5ace8b39878732c85902c4841fb8178f) - 0outlines the essential elements of the venture capital term sheet—from terms related to economics to terms related to control.
+- [Venture Deals](https://www.amazon.com/Venture-Deals-Smarter-Lawyer-Capitalist-ebook/dp/B00AO2PWOI/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1469505159&sr=1-1&keywords=venture+deals&linkCode=sl1&tag=starturevolu-20&linkId=5ace8b39878732c85902c4841fb8178f) - outlines the essential elements of the venture capital term sheet—from terms related to economics to terms related to control.
 - [Do More Faster](https://www.amazon.com/Do-More-Faster-TechStars-Accelerate/dp/0470929839/ref=sr_1_1?ie=UTF8&qid=1309989225&sr=8-1) - A collection of advice that comes from individuals who have passed through, or are part of [TechStars](http://www.techstars.com/)
 
 ## Blogs
