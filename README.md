@@ -21,7 +21,7 @@
 - [Confidentiality Agreement](http://hyndmanlaw.com/blog/form-of-confidentiality-agreement/)
 - [Convertible Note Term Sheet](http://www.docracy.com/2740/convertible-note-term-sheet-template-)
 - [Employment Agreement](http://hyndmanlaw.com/blog/form-of-employment-agreement/)
-- [Founder Advisor Standard](http://www.docracy.com/263/founder-advisor-standard-template)
+- [Founder/ Advisor Standard Template](http://fi.co/FAST)
 - [Founder Collaboration Agreement](http://www.docracy.com/22l87i92e9/founder-collaboration-agreement)
 - [Founders' Agreement](http://www.docracy.com/6348/founders-agreement-template)
 - [Independent Contractor Agreement](http://hyndmanlaw.com/blog/form-of-simple-independent-contractor-agreement/)
