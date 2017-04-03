@@ -52,7 +52,6 @@
   - [Convertible Promissory Note Term Sheet](http://www.techstars.com/uploads/TechStars_Bridge_Term_Sheet1.doc)
   - [Convertible Promissory Note](http://www.techstars.com/uploads/TechStars_Bridge_Forms_-_Convertible_Note1.doc)
 
-
 ### [Y-Combinator](https://www.ycombinator.com/documents/)
 
 - [Simple Agreement for Future Equity](https://www.ycombinator.com/documents/#safe)
