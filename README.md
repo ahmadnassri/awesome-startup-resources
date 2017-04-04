@@ -8,6 +8,7 @@
 
 - [Legal](#legal)
 - [Investment](#investment)
+- [Bursaries and Loans](#bursaries-and-loans)
 - [Books](#books)
 - [Blogs](#blogs)
 - [Community](#community)
@@ -82,6 +83,11 @@
 - [Awesome Incubators](https://github.com/ahmadnassri/awesome-incubators) - A curated list of startup incubators around the globe.
 - [Awesome Accelerators](https://github.com/ahmadnassri/awesome-accelerators) - A curated list of startup accelerators around the globe.
 - [Seed-DB](http://www.seed-db.com/) - A database of seed accelerators and their companies.
+
+## Bursaries and Loans
+
+- [Canada Business Network: Grants and Financing](http://canadabusiness.ca/grants-and-financing/F-S1/) - Grants, loans, tax refunds, wage subsidies, and more for Canadian businesses and non-profits.
+- [MaRS: Funding Portal Search Tool](https://www.marsdd.com/funding/search/) - Access funding programs for businesses, non-profits, charities and research institutions.
 
 ## Books
 
