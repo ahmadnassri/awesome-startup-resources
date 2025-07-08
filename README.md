@@ -107,6 +107,7 @@
 - [Workfrom](https://workfrom.co) - Find and share the best coffee shops, cafes, bars, coworking and other work-friendly spaces in cities and towns everywhere.
 - [ShareDesk](https://www.sharedesk.net/) - Book from thousands of unique work and meeting spaces.
 - [Nomad List](https://nomadlist.com/toronto-canada/places-to-work) - Nomad List finds you the best places in the world to live and work remotely
+- [Study Near Me](https://studynearme.com/) - Directory to find laptop friendly cafes to work remote at for the day anywhere in the US.
 
 ## Community
 
