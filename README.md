@@ -88,6 +88,7 @@
 
 - [Canada Business Network: Grants and Financing](http://canadabusiness.ca/grants-and-financing/F-S1/) - Grants, loans, tax refunds, wage subsidies, and more for Canadian businesses and non-profits.
 - [MaRS: Funding Portal Search Tool](https://www.marsdd.com/funding/search/) - Access funding programs for businesses, non-profits, charities and research institutions.
+- [Texas Business Grants](https://texasbusinessgrants.com) - Free screening tool that matches Texas businesses with government grants, tax credits, loans, and incentive programs.
 
 ## Books
 
