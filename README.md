@@ -89,6 +89,10 @@
 - [Canada Business Network: Grants and Financing](http://canadabusiness.ca/grants-and-financing/F-S1/) - Grants, loans, tax refunds, wage subsidies, and more for Canadian businesses and non-profits.
 - [MaRS: Funding Portal Search Tool](https://www.marsdd.com/funding/search/) - Access funding programs for businesses, non-profits, charities and research institutions.
 
+## Financial Calculators
+
+- [SmartBizCalc](https://smartbizcalc.com) - 380+ free business financial calculators for startup founders: payroll tax, break-even analysis, employee cost, S-corp vs LLC tax comparison, startup cost estimator, profit margin, business loan, and more.
+
 ## Books
 
 - [Venture Deals](https://www.amazon.com/Venture-Deals-Smarter-Lawyer-Capitalist-ebook/dp/B00AO2PWOI/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1469505159&sr=1-1&keywords=venture+deals&linkCode=sl1&tag=starturevolu-20&linkId=5ace8b39878732c85902c4841fb8178f) - outlines the essential elements of the venture capital term sheet—from terms related to economics to terms related to control.
