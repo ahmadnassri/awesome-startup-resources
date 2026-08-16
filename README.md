@@ -12,6 +12,7 @@
 - [Books](#books)
 - [Blogs](#blogs)
 - [Community](#community)
+- [Idea Validation](#idea-validation)
 - [Office & Workspace](#office--workspace)
 
 ## Legal
@@ -111,6 +112,10 @@
 ## Community
 
 - [Tech Masters](https://techmasters.chat/) - online community tying together a diverse and passionate group of technologists, entrepreneurs, and developers from all around the world.
+
+## Idea Validation
+
+- [IdeaHunter](https://ideahunter.today) - Find demand-backed app and micro-SaaS ideas using public signals, buyer pain, market evidence, MVP scope, and monetization paths.
 
 ## License
 
