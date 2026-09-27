@@ -112,6 +112,10 @@
 
 - [Tech Masters](https://techmasters.chat/) - online community tying together a diverse and passionate group of technologists, entrepreneurs, and developers from all around the world.
 
+## Financial Tools & Calculators
+
+- [SmartBizCalc](https://smartbizcalc.com) — 580+ free calculators for startup founders and small businesses: break-even analysis, S-corp tax savings, 1099 vs W-2 comparison, employee cost calculator, contractor markup, business valuation, and more. No account required.
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
