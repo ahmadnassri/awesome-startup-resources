@@ -11,6 +11,7 @@
 - [Bursaries and Loans](#bursaries-and-loans)
 - [Books](#books)
 - [Blogs](#blogs)
+- [Marketing](#marketing)
 - [Community](#community)
 - [Office & Workspace](#office--workspace)
 
@@ -100,6 +101,10 @@
   - [Convertible Debt Series](http://www.askthevc.com/archives/category/convertible-debt-2) - Series of articles specifically focused on Convertible Debt.
 - [Feld Thoughts](http://www.feld.com/) - Blog by Brad Feld, an early stage investor and entrepreneur since 1987.
   - [Term Sheet Series](http://www.feld.com/archives/category/term-sheet) - Blog series on Term Sheet
+
+## Marketing
+
+- [Social-media metrics guide (Swedish)](https://kopfollowers.se/guides/rackvidd-visningar-likes-engagemangsgrad) - Free guide to reach, views and engagement ratios, with labelled arithmetic examples and limits on inferring sales.
 
 ## Office & Workspace
 
