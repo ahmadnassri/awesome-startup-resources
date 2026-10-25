@@ -111,6 +111,7 @@
 ## Community
 
 - [Tech Masters](https://techmasters.chat/) - online community tying together a diverse and passionate group of technologists, entrepreneurs, and developers from all around the world.
+- [Mode VC Founder Capital & Equity Workbench](https://modevc.com/tools/) - 18 free browser-side startup calculators for founders: SAFE & option pool dilution, 409A strike price, ISO vs. NSO AMT tax, Venture Debt vs. Equity, ESOP grants, and LLM/GPU unit economics.
 
 ## License
 
