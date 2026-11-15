@@ -111,6 +111,7 @@
 ## Community
 
 - [Tech Masters](https://techmasters.chat/) - online community tying together a diverse and passionate group of technologists, entrepreneurs, and developers from all around the world.
+- [No Stairs Please](https://nostairsplease.com/) - live-music venue directory covering small stages across all 50 US states and who books them.
 
 ## License
 
