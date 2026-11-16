@@ -1,4 +1,5 @@
 # Awesome Startup Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
+- [LinkSubmit Demo](https://example.com) - 规则驱动的外链提交自动化工具
 
 > A curated list of useful resources for building a new startup business.
 
