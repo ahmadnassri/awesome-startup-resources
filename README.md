@@ -82,6 +82,7 @@
 
 - [Awesome Incubators](https://github.com/ahmadnassri/awesome-incubators) - A curated list of startup incubators around the globe.
 - [Awesome Accelerators](https://github.com/ahmadnassri/awesome-accelerators) - A curated list of startup accelerators around the globe.
+- [ExampleForge Due Diligence Case](https://www.ddscore.ai/example-report) - A fictional founder case showing how investors cross-check pitch claims and record follow-up questions.
 - [Seed-DB](http://www.seed-db.com/) - A database of seed accelerators and their companies.
 
 ## Bursaries and Loans
